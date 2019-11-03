@@ -1,3 +1,6 @@
+change happen
+
+changes appear again
 Git has a mutable index called stage
 
 
